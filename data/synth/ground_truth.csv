@@ -1,0 +1,241 @@
+id,level,path,gt,font,size
+0,100,data/synth/000_jpeg_100.png,"Дівчата вже мене дожидають: — А що, Усте?",arial.ttf,24
+0,50,data/synth/000_jpeg_50.png,"Дівчата вже мене дожидають: — А що, Усте?",arial.ttf,24
+0,30,data/synth/000_jpeg_30.png,"Дівчата вже мене дожидають: — А що, Усте?",arial.ttf,24
+0,20,data/synth/000_jpeg_20.png,"Дівчата вже мене дожидають: — А що, Усте?",arial.ttf,24
+0,10,data/synth/000_jpeg_10.png,"Дівчата вже мене дожидають: — А що, Усте?",arial.ttf,24
+0,5,data/synth/000_jpeg_5.png,"Дівчата вже мене дожидають: — А що, Усте?",arial.ttf,24
+1,100,data/synth/001_jpeg_100.png,"Я на рундуці сіла, як на гробовищі.",times.ttf,28
+1,50,data/synth/001_jpeg_50.png,"Я на рундуці сіла, як на гробовищі.",times.ttf,28
+1,30,data/synth/001_jpeg_30.png,"Я на рундуці сіла, як на гробовищі.",times.ttf,28
+1,20,data/synth/001_jpeg_20.png,"Я на рундуці сіла, як на гробовищі.",times.ttf,28
+1,10,data/synth/001_jpeg_10.png,"Я на рундуці сіла, як на гробовищі.",times.ttf,28
+1,5,data/synth/001_jpeg_5.png,"Я на рундуці сіла, як на гробовищі.",times.ttf,28
+2,100,data/synth/002_jpeg_100.png,"На вибір дають, на людськую волю: хоч утопись, хоч так загинь.",calibri.ttf,26
+2,50,data/synth/002_jpeg_50.png,"На вибір дають, на людськую волю: хоч утопись, хоч так загинь.",calibri.ttf,26
+2,30,data/synth/002_jpeg_30.png,"На вибір дають, на людськую волю: хоч утопись, хоч так загинь.",calibri.ttf,26
+2,20,data/synth/002_jpeg_20.png,"На вибір дають, на людськую волю: хоч утопись, хоч так загинь.",calibri.ttf,26
+2,10,data/synth/002_jpeg_10.png,"На вибір дають, на людськую волю: хоч утопись, хоч так загинь.",calibri.ttf,26
+2,5,data/synth/002_jpeg_5.png,"На вибір дають, на людськую волю: хоч утопись, хоч так загинь.",calibri.ttf,26
+3,100,data/synth/003_jpeg_100.png,На дворі візок запрягають.,georgia.ttf,34
+3,50,data/synth/003_jpeg_50.png,На дворі візок запрягають.,georgia.ttf,34
+3,30,data/synth/003_jpeg_30.png,На дворі візок запрягають.,georgia.ttf,34
+3,20,data/synth/003_jpeg_20.png,На дворі візок запрягають.,georgia.ttf,34
+3,10,data/synth/003_jpeg_10.png,На дворі візок запрягають.,georgia.ttf,34
+3,5,data/synth/003_jpeg_5.png,На дворі візок запрягають.,georgia.ttf,34
+4,100,data/synth/004_jpeg_100.png,Пані від його відвертається.,arial.ttf,31
+4,50,data/synth/004_jpeg_50.png,Пані від його відвертається.,arial.ttf,31
+4,30,data/synth/004_jpeg_30.png,Пані від його відвертається.,arial.ttf,31
+4,20,data/synth/004_jpeg_20.png,Пані від його відвертається.,arial.ttf,31
+4,10,data/synth/004_jpeg_10.png,Пані від його відвертається.,arial.ttf,31
+4,5,data/synth/004_jpeg_5.png,Пані від його відвертається.,arial.ttf,31
+5,100,data/synth/005_jpeg_100.png,"відказала, пані, вибігла і дверима грукнула.",times.ttf,25
+5,50,data/synth/005_jpeg_50.png,"відказала, пані, вибігла і дверима грукнула.",times.ttf,25
+5,30,data/synth/005_jpeg_30.png,"відказала, пані, вибігла і дверима грукнула.",times.ttf,25
+5,20,data/synth/005_jpeg_20.png,"відказала, пані, вибігла і дверима грукнула.",times.ttf,25
+5,10,data/synth/005_jpeg_10.png,"відказала, пані, вибігла і дверима грукнула.",times.ttf,25
+5,5,data/synth/005_jpeg_5.png,"відказала, пані, вибігла і дверима грукнула.",times.ttf,25
+6,100,data/synth/006_jpeg_100.png,"відказала Катря, хоч мене живцем із'їджте тепер!",calibri.ttf,25
+6,50,data/synth/006_jpeg_50.png,"відказала Катря, хоч мене живцем із'їджте тепер!",calibri.ttf,25
+6,30,data/synth/006_jpeg_30.png,"відказала Катря, хоч мене живцем із'їджте тепер!",calibri.ttf,25
+6,20,data/synth/006_jpeg_20.png,"відказала Катря, хоч мене живцем із'їджте тепер!",calibri.ttf,25
+6,10,data/synth/006_jpeg_10.png,"відказала Катря, хоч мене живцем із'їджте тепер!",calibri.ttf,25
+6,5,data/synth/006_jpeg_5.png,"відказала Катря, хоч мене живцем із'їджте тепер!",calibri.ttf,25
+7,100,data/synth/007_jpeg_100.png,"Що ти накоїла, ледащо?",georgia.ttf,34
+7,50,data/synth/007_jpeg_50.png,"Що ти накоїла, ледащо?",georgia.ttf,34
+7,30,data/synth/007_jpeg_30.png,"Що ти накоїла, ледащо?",georgia.ttf,34
+7,20,data/synth/007_jpeg_20.png,"Що ти накоїла, ледащо?",georgia.ttf,34
+7,10,data/synth/007_jpeg_10.png,"Що ти накоїла, ледащо?",georgia.ttf,34
+7,5,data/synth/007_jpeg_5.png,"Що ти накоїла, ледащо?",georgia.ttf,34
+8,100,data/synth/008_jpeg_100.png,"Мені внось, що тобі не вгодно.",arial.ttf,30
+8,50,data/synth/008_jpeg_50.png,"Мені внось, що тобі не вгодно.",arial.ttf,30
+8,30,data/synth/008_jpeg_30.png,"Мені внось, що тобі не вгодно.",arial.ttf,30
+8,20,data/synth/008_jpeg_20.png,"Мені внось, що тобі не вгодно.",arial.ttf,30
+8,10,data/synth/008_jpeg_10.png,"Мені внось, що тобі не вгодно.",arial.ttf,30
+8,5,data/synth/008_jpeg_5.png,"Мені внось, що тобі не вгодно.",arial.ttf,30
+9,100,data/synth/009_jpeg_100.png,"Ти може думаєш, що я вже тебе не люблю?",times.ttf,28
+9,50,data/synth/009_jpeg_50.png,"Ти може думаєш, що я вже тебе не люблю?",times.ttf,28
+9,30,data/synth/009_jpeg_30.png,"Ти може думаєш, що я вже тебе не люблю?",times.ttf,28
+9,20,data/synth/009_jpeg_20.png,"Ти може думаєш, що я вже тебе не люблю?",times.ttf,28
+9,10,data/synth/009_jpeg_10.png,"Ти може думаєш, що я вже тебе не люблю?",times.ttf,28
+9,5,data/synth/009_jpeg_5.png,"Ти може думаєш, що я вже тебе не люблю?",times.ttf,28
+10,100,data/synth/010_jpeg_100.png,Тільки її очі чорні іще живуть і ясніють.,calibri.ttf,31
+10,50,data/synth/010_jpeg_50.png,Тільки її очі чорні іще живуть і ясніють.,calibri.ttf,31
+10,30,data/synth/010_jpeg_30.png,Тільки її очі чорні іще живуть і ясніють.,calibri.ttf,31
+10,20,data/synth/010_jpeg_20.png,Тільки її очі чорні іще живуть і ясніють.,calibri.ttf,31
+10,10,data/synth/010_jpeg_10.png,Тільки її очі чорні іще живуть і ясніють.,calibri.ttf,31
+10,5,data/synth/010_jpeg_5.png,Тільки її очі чорні іще живуть і ясніють.,calibri.ttf,31
+11,100,data/synth/011_jpeg_100.png,На того парубка я вже не дивилась.,georgia.ttf,24
+11,50,data/synth/011_jpeg_50.png,На того парубка я вже не дивилась.,georgia.ttf,24
+11,30,data/synth/011_jpeg_30.png,На того парубка я вже не дивилась.,georgia.ttf,24
+11,20,data/synth/011_jpeg_20.png,На того парубка я вже не дивилась.,georgia.ttf,24
+11,10,data/synth/011_jpeg_10.png,На того парубка я вже не дивилась.,georgia.ttf,24
+11,5,data/synth/011_jpeg_5.png,На того парубка я вже не дивилась.,georgia.ttf,24
+12,100,data/synth/012_jpeg_100.png,"Світлички невеличкі, та гарні, чистенькі.",arial.ttf,25
+12,50,data/synth/012_jpeg_50.png,"Світлички невеличкі, та гарні, чистенькі.",arial.ttf,25
+12,30,data/synth/012_jpeg_30.png,"Світлички невеличкі, та гарні, чистенькі.",arial.ttf,25
+12,20,data/synth/012_jpeg_20.png,"Світлички невеличкі, та гарні, чистенькі.",arial.ttf,25
+12,10,data/synth/012_jpeg_10.png,"Світлички невеличкі, та гарні, чистенькі.",arial.ttf,25
+12,5,data/synth/012_jpeg_5.png,"Світлички невеличкі, та гарні, чистенькі.",arial.ttf,25
+13,100,data/synth/013_jpeg_100.png,"Візник усміхнувсь: — Як собі знаєш, дівчино!",times.ttf,24
+13,50,data/synth/013_jpeg_50.png,"Візник усміхнувсь: — Як собі знаєш, дівчино!",times.ttf,24
+13,30,data/synth/013_jpeg_30.png,"Візник усміхнувсь: — Як собі знаєш, дівчино!",times.ttf,24
+13,20,data/synth/013_jpeg_20.png,"Візник усміхнувсь: — Як собі знаєш, дівчино!",times.ttf,24
+13,10,data/synth/013_jpeg_10.png,"Візник усміхнувсь: — Як собі знаєш, дівчино!",times.ttf,24
+13,5,data/synth/013_jpeg_5.png,"Візник усміхнувсь: — Як собі знаєш, дівчино!",times.ttf,24
+14,100,data/synth/014_jpeg_100.png,Як же вам ведеться тут?,calibri.ttf,35
+14,50,data/synth/014_jpeg_50.png,Як же вам ведеться тут?,calibri.ttf,35
+14,30,data/synth/014_jpeg_30.png,Як же вам ведеться тут?,calibri.ttf,35
+14,20,data/synth/014_jpeg_20.png,Як же вам ведеться тут?,calibri.ttf,35
+14,10,data/synth/014_jpeg_10.png,Як же вам ведеться тут?,calibri.ttf,35
+14,5,data/synth/014_jpeg_5.png,Як же вам ведеться тут?,calibri.ttf,35
+15,100,data/synth/015_jpeg_100.png,"Не турбуйся, не гніви панії.",georgia.ttf,30
+15,50,data/synth/015_jpeg_50.png,"Не турбуйся, не гніви панії.",georgia.ttf,30
+15,30,data/synth/015_jpeg_30.png,"Не турбуйся, не гніви панії.",georgia.ttf,30
+15,20,data/synth/015_jpeg_20.png,"Не турбуйся, не гніви панії.",georgia.ttf,30
+15,10,data/synth/015_jpeg_10.png,"Не турбуйся, не гніви панії.",georgia.ttf,30
+15,5,data/synth/015_jpeg_5.png,"Не турбуйся, не гніви панії.",georgia.ttf,30
+16,100,data/synth/016_jpeg_100.png,"А пані, куди далі, то все зліслівіша, усе лютіша.",arial.ttf,28
+16,50,data/synth/016_jpeg_50.png,"А пані, куди далі, то все зліслівіша, усе лютіша.",arial.ttf,28
+16,30,data/synth/016_jpeg_30.png,"А пані, куди далі, то все зліслівіша, усе лютіша.",arial.ttf,28
+16,20,data/synth/016_jpeg_20.png,"А пані, куди далі, то все зліслівіша, усе лютіша.",arial.ttf,28
+16,10,data/synth/016_jpeg_10.png,"А пані, куди далі, то все зліслівіша, усе лютіша.",arial.ttf,28
+16,5,data/synth/016_jpeg_5.png,"А пані, куди далі, то все зліслівіша, усе лютіша.",arial.ttf,28
+17,100,data/synth/017_jpeg_100.png,"Тай не знаю, як ще другої біди вбігла, що мене не бито.",times.ttf,30
+17,50,data/synth/017_jpeg_50.png,"Тай не знаю, як ще другої біди вбігла, що мене не бито.",times.ttf,30
+17,30,data/synth/017_jpeg_30.png,"Тай не знаю, як ще другої біди вбігла, що мене не бито.",times.ttf,30
+17,20,data/synth/017_jpeg_20.png,"Тай не знаю, як ще другої біди вбігла, що мене не бито.",times.ttf,30
+17,10,data/synth/017_jpeg_10.png,"Тай не знаю, як ще другої біди вбігла, що мене не бито.",times.ttf,30
+17,5,data/synth/017_jpeg_5.png,"Тай не знаю, як ще другої біди вбігла, що мене не бито.",times.ttf,30
+18,100,data/synth/018_jpeg_100.png,"Кайдашева сімя, повість, стор.",calibri.ttf,35
+18,50,data/synth/018_jpeg_50.png,"Кайдашева сімя, повість, стор.",calibri.ttf,35
+18,30,data/synth/018_jpeg_30.png,"Кайдашева сімя, повість, стор.",calibri.ttf,35
+18,20,data/synth/018_jpeg_20.png,"Кайдашева сімя, повість, стор.",calibri.ttf,35
+18,10,data/synth/018_jpeg_10.png,"Кайдашева сімя, повість, стор.",calibri.ttf,35
+18,5,data/synth/018_jpeg_5.png,"Кайдашева сімя, повість, стор.",calibri.ttf,35
+19,100,data/synth/019_jpeg_100.png,"„Розволочитесь“, було каже пані, гніваючись, — „не пущу!…",georgia.ttf,34
+19,50,data/synth/019_jpeg_50.png,"„Розволочитесь“, було каже пані, гніваючись, — „не пущу!…",georgia.ttf,34
+19,30,data/synth/019_jpeg_30.png,"„Розволочитесь“, було каже пані, гніваючись, — „не пущу!…",georgia.ttf,34
+19,20,data/synth/019_jpeg_20.png,"„Розволочитесь“, було каже пані, гніваючись, — „не пущу!…",georgia.ttf,34
+19,10,data/synth/019_jpeg_10.png,"„Розволочитесь“, було каже пані, гніваючись, — „не пущу!…",georgia.ttf,34
+19,5,data/synth/019_jpeg_5.png,"„Розволочитесь“, було каже пані, гніваючись, — „не пущу!…",georgia.ttf,34
+20,100,data/synth/020_jpeg_100.png,Лиха наша пані молода!,arial.ttf,30
+20,50,data/synth/020_jpeg_50.png,Лиха наша пані молода!,arial.ttf,30
+20,30,data/synth/020_jpeg_30.png,Лиха наша пані молода!,arial.ttf,30
+20,20,data/synth/020_jpeg_20.png,Лиха наша пані молода!,arial.ttf,30
+20,10,data/synth/020_jpeg_10.png,Лиха наша пані молода!,arial.ttf,30
+20,5,data/synth/020_jpeg_5.png,Лиха наша пані молода!,arial.ttf,30
+21,100,data/synth/021_jpeg_100.png,"Я не хочу знати, слухати, бачити!",times.ttf,29
+21,50,data/synth/021_jpeg_50.png,"Я не хочу знати, слухати, бачити!",times.ttf,29
+21,30,data/synth/021_jpeg_30.png,"Я не хочу знати, слухати, бачити!",times.ttf,29
+21,20,data/synth/021_jpeg_20.png,"Я не хочу знати, слухати, бачити!",times.ttf,29
+21,10,data/synth/021_jpeg_10.png,"Я не хочу знати, слухати, бачити!",times.ttf,29
+21,5,data/synth/021_jpeg_5.png,"Я не хочу знати, слухати, бачити!",times.ttf,29
+22,100,data/synth/022_jpeg_100.png,Я вже не бачу читати!,calibri.ttf,29
+22,50,data/synth/022_jpeg_50.png,Я вже не бачу читати!,calibri.ttf,29
+22,30,data/synth/022_jpeg_30.png,Я вже не бачу читати!,calibri.ttf,29
+22,20,data/synth/022_jpeg_20.png,Я вже не бачу читати!,calibri.ttf,29
+22,10,data/synth/022_jpeg_10.png,Я вже не бачу читати!,calibri.ttf,29
+22,5,data/synth/022_jpeg_5.png,Я вже не бачу читати!,calibri.ttf,29
+23,100,data/synth/023_jpeg_100.png,На те вона служба називається.,georgia.ttf,23
+23,50,data/synth/023_jpeg_50.png,На те вона служба називається.,georgia.ttf,23
+23,30,data/synth/023_jpeg_30.png,На те вона служба називається.,georgia.ttf,23
+23,20,data/synth/023_jpeg_20.png,На те вона служба називається.,georgia.ttf,23
+23,10,data/synth/023_jpeg_10.png,На те вона служба називається.,georgia.ttf,23
+23,5,data/synth/023_jpeg_5.png,На те вона служба називається.,georgia.ttf,23
+24,100,data/synth/024_jpeg_100.png,відгримнувсь дядько.,arial.ttf,25
+24,50,data/synth/024_jpeg_50.png,відгримнувсь дядько.,arial.ttf,25
+24,30,data/synth/024_jpeg_30.png,відгримнувсь дядько.,arial.ttf,25
+24,20,data/synth/024_jpeg_20.png,відгримнувсь дядько.,arial.ttf,25
+24,10,data/synth/024_jpeg_10.png,відгримнувсь дядько.,arial.ttf,25
+24,5,data/synth/024_jpeg_5.png,відгримнувсь дядько.,arial.ttf,25
+25,100,data/synth/025_jpeg_100.png,"Дядько все дивиться на вікна, на двері.",times.ttf,32
+25,50,data/synth/025_jpeg_50.png,"Дядько все дивиться на вікна, на двері.",times.ttf,32
+25,30,data/synth/025_jpeg_30.png,"Дядько все дивиться на вікна, на двері.",times.ttf,32
+25,20,data/synth/025_jpeg_20.png,"Дядько все дивиться на вікна, на двері.",times.ttf,32
+25,10,data/synth/025_jpeg_10.png,"Дядько все дивиться на вікна, на двері.",times.ttf,32
+25,5,data/synth/025_jpeg_5.png,"Дядько все дивиться на вікна, на двері.",times.ttf,32
+26,100,data/synth/026_jpeg_100.png,"Усе таке веселе в тій хаті було, прибране, осяюще.",calibri.ttf,27
+26,50,data/synth/026_jpeg_50.png,"Усе таке веселе в тій хаті було, прибране, осяюще.",calibri.ttf,27
+26,30,data/synth/026_jpeg_30.png,"Усе таке веселе в тій хаті було, прибране, осяюще.",calibri.ttf,27
+26,20,data/synth/026_jpeg_20.png,"Усе таке веселе в тій хаті було, прибране, осяюще.",calibri.ttf,27
+26,10,data/synth/026_jpeg_10.png,"Усе таке веселе в тій хаті було, прибране, осяюще.",calibri.ttf,27
+26,5,data/synth/026_jpeg_5.png,"Усе таке веселе в тій хаті було, прибране, осяюще.",calibri.ttf,27
+27,100,data/synth/027_jpeg_100.png,"Ну, по сій же мові та будьмо здорові!",georgia.ttf,28
+27,50,data/synth/027_jpeg_50.png,"Ну, по сій же мові та будьмо здорові!",georgia.ttf,28
+27,30,data/synth/027_jpeg_30.png,"Ну, по сій же мові та будьмо здорові!",georgia.ttf,28
+27,20,data/synth/027_jpeg_20.png,"Ну, по сій же мові та будьмо здорові!",georgia.ttf,28
+27,10,data/synth/027_jpeg_10.png,"Ну, по сій же мові та будьмо здорові!",georgia.ttf,28
+27,5,data/synth/027_jpeg_5.png,"Ну, по сій же мові та будьмо здорові!",georgia.ttf,28
+28,100,data/synth/028_jpeg_100.png,"Нехай уже буде, що буде, — думаю, — та вже ми побралися!",arial.ttf,35
+28,50,data/synth/028_jpeg_50.png,"Нехай уже буде, що буде, — думаю, — та вже ми побралися!",arial.ttf,35
+28,30,data/synth/028_jpeg_30.png,"Нехай уже буде, що буде, — думаю, — та вже ми побралися!",arial.ttf,35
+28,20,data/synth/028_jpeg_20.png,"Нехай уже буде, що буде, — думаю, — та вже ми побралися!",arial.ttf,35
+28,10,data/synth/028_jpeg_10.png,"Нехай уже буде, що буде, — думаю, — та вже ми побралися!",arial.ttf,35
+28,5,data/synth/028_jpeg_5.png,"Нехай уже буде, що буде, — думаю, — та вже ми побралися!",arial.ttf,35
+29,100,data/synth/029_jpeg_100.png,"І так він те слово тихо, такеньки смутно, промовив!",times.ttf,32
+29,50,data/synth/029_jpeg_50.png,"І так він те слово тихо, такеньки смутно, промовив!",times.ttf,32
+29,30,data/synth/029_jpeg_30.png,"І так він те слово тихо, такеньки смутно, промовив!",times.ttf,32
+29,20,data/synth/029_jpeg_20.png,"І так він те слово тихо, такеньки смутно, промовив!",times.ttf,32
+29,10,data/synth/029_jpeg_10.png,"І так він те слово тихо, такеньки смутно, промовив!",times.ttf,32
+29,5,data/synth/029_jpeg_5.png,"І так він те слово тихо, такеньки смутно, промовив!",times.ttf,32
+30,100,data/synth/030_jpeg_100.png,"Бувайте здорові, в кого чорні брови!",calibri.ttf,30
+30,50,data/synth/030_jpeg_50.png,"Бувайте здорові, в кого чорні брови!",calibri.ttf,30
+30,30,data/synth/030_jpeg_30.png,"Бувайте здорові, в кого чорні брови!",calibri.ttf,30
+30,20,data/synth/030_jpeg_20.png,"Бувайте здорові, в кого чорні брови!",calibri.ttf,30
+30,10,data/synth/030_jpeg_10.png,"Бувайте здорові, в кого чорні брови!",calibri.ttf,30
+30,5,data/synth/030_jpeg_5.png,"Бувайте здорові, в кого чорні брови!",calibri.ttf,30
+31,100,data/synth/031_jpeg_100.png,"Прислухаюсь — пані моя хлипає, а пан так то вже її благає, так благає!",georgia.ttf,33
+31,50,data/synth/031_jpeg_50.png,"Прислухаюсь — пані моя хлипає, а пан так то вже її благає, так благає!",georgia.ttf,33
+31,30,data/synth/031_jpeg_30.png,"Прислухаюсь — пані моя хлипає, а пан так то вже її благає, так благає!",georgia.ttf,33
+31,20,data/synth/031_jpeg_20.png,"Прислухаюсь — пані моя хлипає, а пан так то вже її благає, так благає!",georgia.ttf,33
+31,10,data/synth/031_jpeg_10.png,"Прислухаюсь — пані моя хлипає, а пан так то вже її благає, так благає!",georgia.ttf,33
+31,5,data/synth/031_jpeg_5.png,"Прислухаюсь — пані моя хлипає, а пан так то вже її благає, так благає!",georgia.ttf,33
+32,100,data/synth/032_jpeg_100.png,Хтож дурнем зістався?,arial.ttf,29
+32,50,data/synth/032_jpeg_50.png,Хтож дурнем зістався?,arial.ttf,29
+32,30,data/synth/032_jpeg_30.png,Хтож дурнем зістався?,arial.ttf,29
+32,20,data/synth/032_jpeg_20.png,Хтож дурнем зістався?,arial.ttf,29
+32,10,data/synth/032_jpeg_10.png,Хтож дурнем зістався?,arial.ttf,29
+32,5,data/synth/032_jpeg_5.png,Хтож дурнем зістався?,arial.ttf,29
+33,100,data/synth/033_jpeg_100.png,Що се за чоловік у світі!,times.ttf,26
+33,50,data/synth/033_jpeg_50.png,Що се за чоловік у світі!,times.ttf,26
+33,30,data/synth/033_jpeg_30.png,Що се за чоловік у світі!,times.ttf,26
+33,20,data/synth/033_jpeg_20.png,Що се за чоловік у світі!,times.ttf,26
+33,10,data/synth/033_jpeg_10.png,Що се за чоловік у світі!,times.ttf,26
+33,5,data/synth/033_jpeg_5.png,Що се за чоловік у світі!,times.ttf,26
+34,100,data/synth/034_jpeg_100.png,Хтось уступив у сінці.,calibri.ttf,26
+34,50,data/synth/034_jpeg_50.png,Хтось уступив у сінці.,calibri.ttf,26
+34,30,data/synth/034_jpeg_30.png,Хтось уступив у сінці.,calibri.ttf,26
+34,20,data/synth/034_jpeg_20.png,Хтось уступив у сінці.,calibri.ttf,26
+34,10,data/synth/034_jpeg_10.png,Хтось уступив у сінці.,calibri.ttf,26
+34,5,data/synth/034_jpeg_5.png,Хтось уступив у сінці.,calibri.ttf,26
+35,100,data/synth/035_jpeg_100.png,"Устино, скажи мені правдоньку: чи ти мене любиш?",georgia.ttf,26
+35,50,data/synth/035_jpeg_50.png,"Устино, скажи мені правдоньку: чи ти мене любиш?",georgia.ttf,26
+35,30,data/synth/035_jpeg_30.png,"Устино, скажи мені правдоньку: чи ти мене любиш?",georgia.ttf,26
+35,20,data/synth/035_jpeg_20.png,"Устино, скажи мені правдоньку: чи ти мене любиш?",georgia.ttf,26
+35,10,data/synth/035_jpeg_10.png,"Устино, скажи мені правдоньку: чи ти мене любиш?",georgia.ttf,26
+35,5,data/synth/035_jpeg_5.png,"Устино, скажи мені правдоньку: чи ти мене любиш?",georgia.ttf,26
+36,100,data/synth/036_jpeg_100.png,"Робитиму, робитиму, поки сили.",arial.ttf,31
+36,50,data/synth/036_jpeg_50.png,"Робитиму, робитиму, поки сили.",arial.ttf,31
+36,30,data/synth/036_jpeg_30.png,"Робитиму, робитиму, поки сили.",arial.ttf,31
+36,20,data/synth/036_jpeg_20.png,"Робитиму, робитиму, поки сили.",arial.ttf,31
+36,10,data/synth/036_jpeg_10.png,"Робитиму, робитиму, поки сили.",arial.ttf,31
+36,5,data/synth/036_jpeg_5.png,"Робитиму, робитиму, поки сили.",arial.ttf,31
+37,100,data/synth/037_jpeg_100.png,Не хотілось дуже їй умирати!,times.ttf,30
+37,50,data/synth/037_jpeg_50.png,Не хотілось дуже їй умирати!,times.ttf,30
+37,30,data/synth/037_jpeg_30.png,Не хотілось дуже їй умирати!,times.ttf,30
+37,20,data/synth/037_jpeg_20.png,Не хотілось дуже їй умирати!,times.ttf,30
+37,10,data/synth/037_jpeg_10.png,Не хотілось дуже їй умирати!,times.ttf,30
+37,5,data/synth/037_jpeg_5.png,Не хотілось дуже їй умирати!,times.ttf,30
+38,100,data/synth/038_jpeg_100.png,"Та вона-ж голодна, серце…",calibri.ttf,26
+38,50,data/synth/038_jpeg_50.png,"Та вона-ж голодна, серце…",calibri.ttf,26
+38,30,data/synth/038_jpeg_30.png,"Та вона-ж голодна, серце…",calibri.ttf,26
+38,20,data/synth/038_jpeg_20.png,"Та вона-ж голодна, серце…",calibri.ttf,26
+38,10,data/synth/038_jpeg_10.png,"Та вона-ж голодна, серце…",calibri.ttf,26
+38,5,data/synth/038_jpeg_5.png,"Та вона-ж голодна, серце…",calibri.ttf,26
+39,100,data/synth/039_jpeg_100.png,"Не вдавайсь у тугу, — каже Назар.",georgia.ttf,26
+39,50,data/synth/039_jpeg_50.png,"Не вдавайсь у тугу, — каже Назар.",georgia.ttf,26
+39,30,data/synth/039_jpeg_30.png,"Не вдавайсь у тугу, — каже Назар.",georgia.ttf,26
+39,20,data/synth/039_jpeg_20.png,"Не вдавайсь у тугу, — каже Назар.",georgia.ttf,26
+39,10,data/synth/039_jpeg_10.png,"Не вдавайсь у тугу, — каже Назар.",georgia.ttf,26
+39,5,data/synth/039_jpeg_5.png,"Не вдавайсь у тугу, — каже Назар.",georgia.ttf,26

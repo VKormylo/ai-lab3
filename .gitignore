@@ -5,3 +5,4 @@ __pycache__/
 # проміжні вирізки й тимчасові файли
 tmp/
 *.pdf
+institutka.txt
