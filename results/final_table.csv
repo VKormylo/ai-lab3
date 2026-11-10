@@ -1,0 +1,17 @@
+group,config,CER,WER,sec
+синтетика (усі рівні),Tesseract / prep,0.012,0.0336,0.3371
+синтетика (усі рівні),Tesseract / raw,0.0112,0.0301,0.1907
+синтетика (усі рівні),VLM / prep,0.0119,0.0571,17.7494
+синтетика (усі рівні),VLM / raw,0.0133,0.0681,17.5747
+Perestoroha,Tesseract / adaptive,0.8326,1.0108,0.2892
+Perestoroha,Tesseract / raw,0.8015,1.0319,0.3922
+Perestoroha,VLM / base,0.1175,0.4439,26.333
+Perestoroha,VLM / hist,0.1109,0.4276,11.4888
+власні,Tesseract / raw,0.8359,1.0418,0.868
+власні,Tesseract / raw+adaptive,0.9282,1.5323,1.1494
+власні,Tesseract / warp,1.1328,2.1388,1.6307
+власні,Tesseract / warp+adaptive,1.0928,1.9857,1.3544
+власні,VLM / raw/base,0.1806,0.4785,43.9977
+власні,VLM / raw/hist,0.1741,0.5455,11.514
+власні,VLM / warp/base,0.148,0.5007,50.3955
+власні,VLM / warp/hist,0.1473,0.5152,11.2941

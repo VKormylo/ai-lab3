@@ -1,0 +1,550 @@
+[
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw",
+    "confidence": 0.2997,
+    "seconds": 0.808,
+    "cer": 0.8438,
+    "wer": 1.1818,
+    "text": "ae \\pnaie де Epil | ian Me aa Я Wz, Gof гів pipe С/г тес: бери ie ze | fife. Pied Mb pia Heal Ge ac, | mee ДРТ ТД pole ble 77784 72227720 2 GE, вебандує | НН",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw+adaptive",
+    "confidence": 0.3152,
+    "seconds": 1.142,
+    "cer": 1.1696,
+    "wer": 2.3939,
+    "text": "РЕ oniiice | ФСРЕ | LLUGCOM UE | з В пато | НО | бро с ННК | CCMA EE: fla). A et | ДО “fgets, Pee І LEB Ped ALE 2G ago ef ATO et Ya Ge | DAPI, | СТР сте Ло | ПИТВО | СПРИНТ | RAH ACE TE | | __. HGRPE TPE eee lee aE Bec СІ тс ій Sperry раннивннни» ALPE EEE Pee cc Pitt - ЧУ HERE eee 2 її Н нинионннняняхМ",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "base"
+    },
+    "preprocessing": "raw/base",
+    "confidence": 0.6298,
+    "seconds": 33.499,
+    "cer": 0.2143,
+    "wer": 0.5758,
+    "text": "За тим за льтами оная грубость половская и прирожденные несущие на марность того света так поразили, не помышлова анных подобных благотворивых самодержцев, князей русских, света сего красотами убеденные, а науками не бургенные",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "hist"
+    },
+    "preprocessing": "raw/hist",
+    "confidence": 0.5783,
+    "seconds": 11.514,
+    "cer": 0.1741,
+    "wer": 0.5455,
+    "text": "За тим за льтами оная грубость\nполанская и прырож-сенья несущее на\nмарность того свьта так поразиле,\nне помышлобе анных подобных благо-\nтестьивых самодержецовъ, князьам\nрусич, свьта сего красотами\nувереные, а науками не бургеные",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "warp",
+    "confidence": 0.2463,
+    "seconds": 2.091,
+    "cer": 1.4241,
+    "wer": 2.9394,
+    "text": "‘Tiblt | 00 aks | de ted fa нен педа epee піна tet Le нина ОРГ 01 a ee ЕН — AYP EE 00 ieee imme Ze 2 нина IE) Fe eae ee гай ee ee ZL ZE ПО СУСАР МЕНЮ ДУ 2 7 яв і = не аа Й о НН ee тура Oe eee eae tee MESO Car з ALOE Aaa He thgeargge EEE HCC eee {at наеноавихо 09 coor б 000000 “ee А АНА В ВИ cee + 0000000 Tor НЕО А вивинааененого UU і fod р -—}— meas uas ke З і re eels",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "warp+adaptive",
+    "confidence": 0.2494,
+    "seconds": 0.966,
+    "cer": 0.9598,
+    "wer": 2.0303,
+    "text": "гороророро ee eee тиви ee re нини AG 2 LORE С Ст ни Р 2 і ор родаеннвнм Вар РО бе со EC He 222277 МН В реє нини Ae Lit ae Ree EEE Cece Pie Pit LITT Ler er Pr re ЕН pi | Lite Por Perper it iil jp meee EC EP Iie | SO JEP i ae ee Wir пла COC Cr pte eee",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "base"
+    },
+    "preprocessing": "warp/base",
+    "confidence": 0.5581,
+    "seconds": 44.483,
+    "cer": 0.1429,
+    "wer": 0.5455,
+    "text": "За тим за лютами оная грубость\nпоцанская и приросенье вежущее на\nмарность того света так поразило,\nне помпкове опьих подобных благо-\nтестивых самодержцев, князом\nрусим, света его красотами\nуведеные, а науками не внушеные",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "old01.JPG",
+    "sha256": "92815ca02acd2620d4f9795f599c44b3c84be61cbca71d0dc85c1ab4f98396ad",
+    "exif": {
+      "taken": "2026:11:09 20:25:15",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "hist"
+    },
+    "preprocessing": "warp/hist",
+    "confidence": 0.5576,
+    "seconds": 11.294,
+    "cer": 0.1473,
+    "wer": 0.5152,
+    "text": "За тим за лютами оная грубость\nпоханская и приросень влекущее на\nмарность того свьта так поразилее,\nне помпирове опыа побожных благо-\nтестьных самодержцев, князсам\nруссма, свьта сего красотами\nуведеней, а науками не влугеные",
+    "fields": null,
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_angle.JPG",
+    "sha256": "9b9276f8d7f5bcaee68efceea804a6a513ba949f388a7708639c1b6be4855d18",
+    "exif": {
+      "taken": "2026:11:09 20:12:29",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw",
+    "confidence": 0.3948,
+    "seconds": 0.691,
+    "cer": 0.8656,
+    "wer": 1.0,
+    "text": "GH V ae very we, Й Giyjplt, ay”, ) (ofa HE” | “eS + за Р YP JK ak “45 “@ 2 І, ge A Bea) с Pil ¢ COE VET fie Є VA Z Об РР / РЕ fel cata 7 IIT ACG",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_angle.JPG",
+    "sha256": "9b9276f8d7f5bcaee68efceea804a6a513ba949f388a7708639c1b6be4855d18",
+    "exif": {
+      "taken": "2026:11:09 20:12:29",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw+adaptive",
+    "confidence": 0.298,
+    "seconds": 1.041,
+    "cer": 0.8118,
+    "wer": 1.0882,
+    "text": "со прив Gif er ТО GE” А РА of a ПА My SD aD Ga ри Gere | СТР НО Й Gf Um СЕ gn пріо ЧДУ ЖЕН LT we OT og Dn EP ne ee пра оно рад FACE | zz, can Liu. eee fe. РЕНІ пре REAR дет є бамогася І fi і wT А ПО 2 ЯН пани Me канат Corre CORD ph penne HIT Sane ire ty, | PRR ite ae",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_angle.JPG",
+    "sha256": "9b9276f8d7f5bcaee68efceea804a6a513ba949f388a7708639c1b6be4855d18",
+    "exif": {
+      "taken": "2026:11:09 20:12:29",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "base"
+    },
+    "preprocessing": "raw/base",
+    "confidence": 0.6832,
+    "seconds": 47.801,
+    "cer": 0.1747,
+    "wer": 0.4265,
+    "text": "Люди дивуються, що я весіла надій, пора-віди не згнали. А я зроду така вдамся. Уродин, халтури, та і бдіся... Було, мене і б'ють (бдай не згадувати) - не зберусь серце заплачу; а роздумані трохи - і сліває. Бува михо, що плаче, а бува, що й схате, - то так і моє шленько. Я бби мені за конського бідно моє рахати, досі б і вій я виплакала. Корнило, ПЗ-47, 09.11.2026",
+    "fields": {
+      "surname": "Люди",
+      "group": "ПЗ-47",
+      "date": "2026-11-09",
+      "needs_review": false
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_flat.JPG",
+    "sha256": "e87504b0394efb35d3dfbcb4871bbc5abde6a64de4daf166151bbeb12c0cb51c",
+    "exif": {
+      "taken": "2026:11:09 20:10:17",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw",
+    "confidence": 0.3135,
+    "seconds": 1.055,
+    "cer": 0.8091,
+    "wer": 1.0,
+    "text": "Gases. HG, ay Te met zt Gee. ї усу ae | Рая ДО а ре арок ур FEST ee пурахер п OPA МЕР зване, VGC еко | A B Yee, 2 2 По пра раду Р | ТОЇ WZZM РВС СА прав | |= ШУ ДЛ єв ра 2 7 Cae Fel tilted a Jiipiiaid, ПОТУ CFTR AE г -",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_flat.JPG",
+    "sha256": "e87504b0394efb35d3dfbcb4871bbc5abde6a64de4daf166151bbeb12c0cb51c",
+    "exif": {
+      "taken": "2026:11:09 20:10:17",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw+adaptive",
+    "confidence": 0.2968,
+    "seconds": 1.286,
+    "cer": 0.9032,
+    "wer": 1.4118,
+    "text": ") І Б ee р і - eS пинионУ. Bile пре нання аеро |e OTS eo + LE FG а ура ee НЕОН ЗРРАЗЕЦЕННИВОДо ne anaes Мер Тир GAZ fet Is CD Tepe das 22 appeal — ade аа рання a raging — EEA A Oe || BAZ | -р Bee ae yi ji iii tat if tte ера ae РОД ДО ВИР fey дарую Um RE ою ieee Ly Bt , aie | АВ АНА и ааасчнанн Знанснийннини нини SERRE EEE EEE ECE eee COCR eee ee [4 tif tt | Pi TEAREEE Pree УРАНУ ТО",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_flat.JPG",
+    "sha256": "e87504b0394efb35d3dfbcb4871bbc5abde6a64de4daf166151bbeb12c0cb51c",
+    "exif": {
+      "taken": "2026:11:09 20:10:17",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "base"
+    },
+    "preprocessing": "raw/base",
+    "confidence": 0.7012,
+    "seconds": 47.699,
+    "cer": 0.1747,
+    "wer": 0.4412,
+    "text": "Люди дивляться, що я весела! надіє, гори-біди не згама. А я зроду така вдалася. Зродив, халтурю, та і бдіся... Було, мене і б'ють (б'яй не згадувати!) - не здерусь серце, заплачу; а роздумання трохи - і силися. Слуха шхо, що плаче, а бува, що і сказе, - то так і мов шменько. Якби мені за копієного бігого мовою плакати, досі б і ай я виплакала. Корнило, А3-47, 09.11.2026",
+    "fields": {
+      "surname": "Люди",
+      "group": null,
+      "date": "2026-11-09",
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_flat.JPG",
+    "sha256": "e87504b0394efb35d3dfbcb4871bbc5abde6a64de4daf166151bbeb12c0cb51c",
+    "exif": {
+      "taken": "2026:11:09 20:10:17",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "warp",
+    "confidence": 0.3796,
+    "seconds": 1.17,
+    "cer": 0.8414,
+    "wer": 1.3382,
+    "text": "| hap Wee PWG tf. # Meee | Fagen o (| ape dp we рано OR yyy rade “| Gaseae _ fea, задо “2 о Gece | ба на жи Ер по рр Р epidae |  беуас| о 7 Jecete вира гав ge be Mase, — Pie Pak Pele BP ZZZZ2Z7 MLE aera fea Za cea? DPA | | awe Abin, фр Дб є la Za ЛІ | | Ripaacdd, (Wt як ea rea || АННИ ПИЙ | і | Ї | | | | | Ї | Ї | | fort |",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_flat.JPG",
+    "sha256": "e87504b0394efb35d3dfbcb4871bbc5abde6a64de4daf166151bbeb12c0cb51c",
+    "exif": {
+      "taken": "2026:11:09 20:10:17",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "warp+adaptive",
+    "confidence": 0.2689,
+    "seconds": 1.742,
+    "cer": 1.2258,
+    "wer": 1.9412,
+    "text": "ЧІ | дир Ре ФР НУ Раю any винних ane || (Ae -\\4724\\ ДІД ЗІ Mk. eA Ла У РР Щі НИ/Р МР ГЛІД Т2 \"ПНР АРНИ/РИ пи | є | Z Bee nee WL Lae 2 epfledl) ji. BEE А it} ft | AA ПЛ SE IIE IE CEG GO || Wehse | р бита (nba wwe, G0 frcaee | Se eee | 1a LE2 | Le \\CkCE| P27 Priel F \\ Ok \\ BH SEES | MEMOLELE ШІ тт bra \\ fa EO ССС JHE | поря ар ою дно age mamas fae 24 ee ea vie : LLG LEAL ФАР САЛА ЗЛА brit РРО ОТО РОТ РИН СИ ор {itt ши вином PP г нининим нинининининиинноНи РНЕРНУМНЬ НННННЕ LEE i = | PUPP pei нинининвннннононононоониюоНих ОО РОЛ В ОО TET",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_flat.JPG",
+    "sha256": "e87504b0394efb35d3dfbcb4871bbc5abde6a64de4daf166151bbeb12c0cb51c",
+    "exif": {
+      "taken": "2026:11:09 20:10:17",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "base"
+    },
+    "preprocessing": "warp/base",
+    "confidence": 0.7384,
+    "seconds": 56.308,
+    "cer": 0.1532,
+    "wer": 0.4559,
+    "text": "Люди дивуються, що я весела і надиха, горя біди не знаю. А я зроду така вдалася. Зродив, калуеть, то і вдаєся... Було, мене і б'яло (б'яй не згадувай!) - не здергую серце, заплачу, а роздумано трохи - і сніває. Бува міхо, що плаче, а бува, що й скаже, - то так і мов мішенко. Якби мені за коняного бідно моєю плакати, досі б і ой-а виплакала. Коршило, ПЗ-47, 09.11.2026",
+    "fields": {
+      "surname": "Люди",
+      "group": "ПЗ-47",
+      "date": "2026-11-09",
+      "needs_review": false
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_shadow.JPG",
+    "sha256": "89aefb9d311855cd0fd1b57b8f48c394034200f26c8829a1ce33f5b8d3e86e28",
+    "exif": {
+      "taken": "2026:11:09 20:10:44",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw",
+    "confidence": 0.3498,
+    "seconds": 0.918,
+    "cer": 0.8253,
+    "wer": 0.9853,
+    "text": "РУДУ ера, селі. 72222 174 Gea, ; - 227 ладу a AZ bh Let аа =< SI fears} по 0 ee fos — VA Za ДИР ная GAME Є ДЕ Ge ce LCE, - PIP frighl - ae 17/77. VL З УДО fk Lo C007 грає АЮ т дай Я 0 Gece Ge tihiest Tipu, I~ YF ПИТ CALE jp tise ;",
+    "fields": {
+      "surname": null,
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_shadow.JPG",
+    "sha256": "89aefb9d311855cd0fd1b57b8f48c394034200f26c8829a1ce33f5b8d3e86e28",
+    "exif": {
+      "taken": "2026:11:09 20:10:44",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "Tesseract",
+    "engine_version": "5.5.3.20260724",
+    "params": {
+      "lang": "ukr+eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "preprocessing": "raw+adaptive",
+    "confidence": 0.2988,
+    "seconds": 1.128,
+    "cer": 0.828,
+    "wer": 1.2353,
+    "text": "Дао xP EE Gos — Oa рн EEG ED Gf ey ee ae 2 ae A ee дра Ryn, y OAH GP SOAP Sig a ее ПЕ ско аю - [ 2Z YE 2 | Ga Je kaze, ПТО frill + td 7777 i iS = Sy Ca eee << -____—-- CELIA ALI A fe PALE pe гро) рр у» eS Oe eee aE fe Fo Oe 8 Ae Lacerta ання IIR BALE dee Pop ed ne ee МИ Ди НН DDD sn ob",
+    "fields": {
+      "surname": "Дао",
+      "group": null,
+      "date": null,
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  },
+  {
+    "file": "page01_shadow.JPG",
+    "sha256": "89aefb9d311855cd0fd1b57b8f48c394034200f26c8829a1ce33f5b8d3e86e28",
+    "exif": {
+      "taken": "2026:11:09 20:10:44",
+      "camera": "iPhone 13 Pro Max",
+      "make": "Apple"
+    },
+    "engine": "VLM",
+    "engine_version": "qwen2.5vl:7b (5ced39dfa4ba)",
+    "params": {
+      "temperature": 0,
+      "seed": 5049,
+      "num_predict": 1024,
+      "prompt": "base"
+    },
+    "preprocessing": "raw/base",
+    "confidence": 0.7174,
+    "seconds": 46.992,
+    "cer": 0.1586,
+    "wer": 0.4706,
+    "text": "Люди дивуються, що я весела: надійс, горе-біди не згнали. А я зроду така вдалася. Уродна, маленька, та і бдайся... Було, мене і б'яло (б'яй не згадувати!) - не здертає серце, заплачу; а родуна траги - і сльюся. Губа михо, що плаке, а буба, що й скаже, - то так і мов місенько. Яби мені за коняного білою мою плакати, досі б і оті я виплакала. Корнило, ПЗ-ЧГ, 09.11.2026",
+    "fields": {
+      "surname": "Люди",
+      "group": null,
+      "date": "2026-11-09",
+      "needs_review": true
+    },
+    "processed_at": "2026-11-10T02:23:17"
+  }
+]

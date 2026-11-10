@@ -326,30 +326,63 @@ def png_bytes(img):
     return cv2.imencode(".png", img)[1].tobytes()
 
 
+VLM_OPTIONS = {"temperature": 0, "seed": SEED, "num_ctx": 3072}
+VLM_CACHE_PATH = "results/vlm_cache.jsonl"
+VLM_CACHE = {}
+if os.path.exists(VLM_CACHE_PATH):
+    with open(VLM_CACHE_PATH, encoding="utf-8") as f:
+        for line in f:
+            rec = json.loads(line)
+            VLM_CACHE[rec["key"]] = rec
+
+
 def ocr_vlm(img, prompt=PROMPT_BASE, max_tokens=256, retries=3):
+    """Розпізнавання VLM. Кожна відповідь одразу дописується в results/vlm_cache.jsonl (ключ —
+    хеш зображення, промпту і ліміту токенів): перерваний прогін продовжується з місця зупинки,
+    а однакові запити (напр. «без обробки» в основному прогоні і в абляції) не повторюються.
+    Час `sec` — виміряний під час першого (фактичного) запиту."""
+    data = png_bytes(img)
+    key = hashlib.sha1(data + prompt.encode() + str(max_tokens).encode()).hexdigest()
+    if key in VLM_CACHE and not FORCE:
+        c = VLM_CACHE[key]
+        return c["text"], c["conf"], c["sec"]
     for attempt in range(retries):
         t0 = time.perf_counter()
         try:
-            r = ollama.chat(model=VLM_MODEL, logprobs=True,
-                            options={"temperature": 0, "seed": SEED, "num_predict": max_tokens},
-                            messages=[{"role": "user", "content": prompt, "images": [png_bytes(img)]}])
+            r = ollama.chat(model=VLM_MODEL, logprobs=True, options={**VLM_OPTIONS, "num_predict": max_tokens},
+                            messages=[{"role": "user", "content": prompt, "images": [data]}])
             break
         except ollama.ResponseError as e:   # разові збої llama-server (CUDA) — повторюємо запит
-            print("  повтор VLM:", str(e)[:80])
+            print("  повтор VLM:", str(e)[:80], flush=True)
             time.sleep(5)
     else:
         raise RuntimeError("VLM недоступна")
+    sec = time.perf_counter() - t0
     text = r.message.content.strip()
     text = re.sub(r"^```[a-z]*\s*|\s*```$", "", text).strip()   # прибираємо Markdown-огорожу
     lps = [t.logprob for t in (r.logprobs or [])]
     conf = float(np.exp(np.mean(lps))) if lps else 0.0
-    return text, conf, time.perf_counter() - t0
+    rec = {"key": key, "text": text, "conf": conf, "sec": sec, "tokens_in": r.prompt_eval_count,
+           "tokens_out": r.eval_count}
+    VLM_CACHE[key] = rec
+    with open(VLM_CACHE_PATH, "a", encoding="utf-8") as f:
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    return text, conf, sec
 
 
 ENGINES = {"Tesseract": lambda im: ocr_tesseract(im, psm=7),
            "VLM": lambda im: ocr_vlm(im, max_tokens=128)}
 
-_ = ocr_vlm(render_line("Прогрів моделі", FONTS[0]), max_tokens=8)  # прогрів: модель завантажується в пам'ять
+# прогрів (поза кешем): модель завантажується в пам'ять, щоб час першого запиту не включав завантаження
+for _attempt in range(3):
+    try:
+        ollama.chat(model=VLM_MODEL, options={**VLM_OPTIONS, "num_predict": 4},
+                    messages=[{"role": "user", "content": "Прочитай текст.",
+                               "images": [png_bytes(render_line("Прогрів моделі", FONTS[0]))]}])
+        break
+    except ollama.ResponseError as e:
+        print("  повтор прогріву:", str(e)[:80])
+        time.sleep(5)
 # Примітка: на ПОРОЖНЬОМУ білому зображенні 64×256 модель «прочитала» «Всім привіт! Як вам досить? ...» —
 # приклад галюцинації VLM; для прогріву тому використовується рядок з текстом.
 print("VLM готова")
@@ -455,7 +488,7 @@ def synth_rows(frame=None):
                 text, conf, sec = fn(pim)
                 rows.append({"id": r.id, "level": r.level, "engine": eng, "prep": prep_name,
                              "gt": r.gt, "pred": text, "conf": conf, "sec": sec + tp})
-        progress(k, len(frame), t0)
+        progress(k, len(frame), t0, every=10)
     return rows
 
 
@@ -670,7 +703,7 @@ def ablation_rows():
             if r.level == ABL_LEVEL and name in ABL_VLM:
                 text, conf, sec = ocr_vlm(pim, max_tokens=128)
                 rows.append({"engine": "VLM", "level": r.level, "id": r.id, "step": name, "gt": r.gt, "pred": text})
-        progress(k, len(ds), t0)
+        progress(k, len(ds), t0, every=20)
     return rows
 
 
@@ -809,7 +842,7 @@ for eng, top in tops_open.items():
 # Кожне фото: EXIF-орієнтація → відтінки сірого → довша сторона 2000 px. Конфігурації:
 # `raw`; `warp` — пошук аркуша (Кенні + найбільший чотирикутник) і корекція перспективи;
 # `warp+adaptive` — плюс адаптивна бінаризація. VLM отримує кольорове зображення (довша сторона
-# 1600 px) без обробки та після корекції перспективи.
+# 1280 px) без обробки та після корекції перспективи.
 
 # %%
 def exif_info(path):
@@ -888,7 +921,7 @@ def own_rows_fn():
                              "conf": conf, "sec": sec, "taken": taken, "camera": camera, "make": make,
                              "page_found": corners is not None})
             vimg = c_img
-            k = 1600 / max(vimg.shape[:2])
+            k = 1280 / max(vimg.shape[:2])   # ~1570 токенів зображення + до 1024 токенів відповіді < num_ctx 3072
             vimg = cv2.resize(vimg, None, fx=k, fy=k, interpolation=cv2.INTER_AREA)
             prompts = {"base": PROMPT_BASE, "hist": PROMPT_HIST} if base.startswith("old") else {"base": PROMPT_BASE}
             for pname, prompt in prompts.items():
